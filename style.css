@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    margin: 0;
+}
+#mybtn{
+    margin-top: 5px;
+    font-size: 25px;
+}
+#mylabel{
+    font-size: 20px;
+}
+.label{
+    font-size: 50px;
+}
